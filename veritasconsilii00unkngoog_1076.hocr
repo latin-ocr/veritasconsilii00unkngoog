@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veritasconsilii00unkngoog_1076.png"; bbox 0 0 2492 4509; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 186 180 1204 1922">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 186 180 1204 1922">
+     <span class='ocr_line' id='line_1_1' title="bbox 186 180 1204 1922; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 186 180 1204 1922; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1486 1544 2032 1919">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1486 1544 2032 1843">
+     <span class='ocr_line' id='line_1_2' title="bbox 1529 1544 2032 1637; baseline 0.03 -16"><span class='ocrx_word' id='word_1_2' title='bbox 1529 1561 1531 1563; x_wconf 81' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1594 1544 1950 1637; x_wconf 63' lang='lat' dir='ltr'>Tiffibatns&#39;</span> <span class='ocrx_word' id='word_1_4' title='bbox 2002 1571 2032 1636; x_wconf 71' lang='lat' dir='ltr'>t·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1494 1633 2032 1748; baseline 0.013 -22"><span class='ocrx_word' id='word_1_5' title='bbox 1494 1633 1639 1730; x_wconf 53' lang='lat' dir='ltr'>Ep}</span> <span class='ocrx_word' id='word_1_6' title='bbox 1655 1645 2032 1748; x_wconf 50' lang='lat' dir='ltr'>“Cflssuflissj</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1486 1732 2032 1843; baseline 0.035 -31"><span class='ocrx_word' id='word_1_7' title='bbox 1486 1732 1711 1816; x_wconf 79' lang='lat' dir='ltr'>Nullo</span> <span class='ocrx_word' id='word_1_8' title='bbox 1762 1753 2032 1843; x_wconf 73' lang='lat' dir='ltr'>patroci</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1587 1835 2032 1919">
+     <span class='ocr_line' id='line_1_5' title="bbox 1587 1835 2032 1919; baseline 0.025 -10"><span class='ocrx_word' id='word_1_9' title='bbox 1587 1835 1802 1917; x_wconf 83' lang='lat' dir='ltr'>suitas</span> <span class='ocrx_word' id='word_1_10' title='bbox 1830 1872 1919 1919; x_wconf 82' lang='lat' dir='ltr'>ac</span> <span class='ocrx_word' id='word_1_11' title='bbox 1950 1854 2032 1919; x_wconf 58' lang='lat' dir='ltr'>Ca</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

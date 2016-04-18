@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veritasconsilii00unkngoog_0500.png"; bbox 0 0 2492 4509; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 160 138 2338 1479">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 160 138 2338 1479">
+     <span class='ocr_line' id='line_1_1' title="bbox 160 138 2338 1479; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 160 138 2338 1479; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 277 1660 2274 2103">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 277 1660 2274 2103">
+     <span class='ocr_line' id='line_1_2' title="bbox 969 1660 1798 1879; baseline -0.002 -48"><span class='ocrx_word' id='word_1_2' title='bbox 969 1711 1061 1831; x_wconf 71' lang='grc' dir='ltr'>Δ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1081 1660 1734 1879; x_wconf 62' lang='lat' dir='ltr'><em>ppendix,</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1786 1831 1798 1851; x_wconf 75' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 277 1939 2274 2103; baseline -0.005 -22"><span class='ocrx_word' id='word_1_5' title='bbox 277 1943 323 1951; x_wconf 13' lang='grc' dir='ltr'>Ἡ</span> <span class='ocrx_word' id='word_1_6' title='bbox 401 1975 661 2079; x_wconf 61' lang='lat' dir='ltr'><em>Dm?</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 701 1971 789 2071; x_wconf 81' lang='lat' dir='ltr'><em>S.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 841 1967 1298 2071; x_wconf 66' lang='lat' dir='ltr'><em>Vincenrii</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1354 1995 1413 2067; x_wconf 63' lang='lat' dir='ltr'><em>a</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1462 1939 1761 2071; x_wconf 57' lang='lat' dir='ltr'>sz&#39;elo</span> <span class='ocrx_word' id='word_1_11' title='bbox 1810 1943 2274 2103; x_wconf 53' lang='lat' dir='ltr'><em>Eptstfllffl</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 905 2187 1794 2239">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 905 2187 1794 2239">
+     <span class='ocr_line' id='line_1_4' title="bbox 905 2187 1794 2239; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 905 2187 1005 2239; x_wconf 71' lang='lat' dir='ltr'><em>f}-</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1049 2191 1350 2239; x_wconf 58' lang='lat' dir='ltr'><em>massua-1</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1398 2187 1794 2239; x_wconf 57' lang='lat' dir='ltr'><em>nemin-infin.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
